@@ -1,5 +1,5 @@
 <h1>VOC</h1>
-1. Option for menu radius size (arc coverage)  
+1. Option for menu radius size (arc coverage)
 2. Option for item/icon zoom level. Useful for lots of use cases  
 3. Option for background including custom image  
 4. Trigger icon shadow, and shadow opacity level. For better visibility  
@@ -8,7 +8,6 @@
 8. Option to auto-reset or keep the menu item positions (for the next triggering instance) 
 once an item is clicked, or if action was cancelled by user. This is because some items are hidden away if all 10 slots are used up  
 9. Fix for menu scroll jumpiness. Scrolling is not  smooth enough, it doesn't have inertia setting  
-
 11. Option for per-item custom icon; and icon pack selection  
 12. Icon shape/mask setting: circle, square, squircle, etc...  
 13. Option for visible unread notifications/counter for applicable icons: Messaging, Email, etc.  
