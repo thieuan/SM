@@ -1,5 +1,5 @@
-VOC
-1. Option for menu radius size (arc coverage)  
+<b>VOC</b>
+1. Option for menu radius size (arc coverage)  
 2. Option for item/icon zoom level. Useful for lots of use cases  
 3. Option for background including custom image  
 4. Trigger icon shadow, and shadow opacity level. For better visibility  
@@ -17,9 +17,10 @@ once an item is clicked, or if action was cancelled by user. This is because som
 16. Option for visual cue when item is clicked. A nifty animation will do.  
 17. Make it obvious if an item is no longer clickable along its arc. Dim the disabled section of the screen.   
 
-Completed
+<b>Completed</b>
 - Fix trigger icon jumpiness when repositioning  
 
-2.3.5
+<b>Release note</b>
+<b>2.3.5</b>
 - Option for background opacity level
 - Option for animation smoothness level, or to set it to none 
