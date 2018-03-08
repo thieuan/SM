@@ -15,6 +15,7 @@ once an item is clicked, or if action was cancelled by user. This is because som
 <br>15. Haptic feedback option; and click sound option. Including vibration and volume level settings  
 <br>16. Option for visual cue when item is clicked. A nifty animation will do.  
 <br>17. Make it obvious if an item is no longer clickable along its arc. Dim the disabled section of the screen.   
+<br>18. Just wish I could drag the dot icon on the top or buttom. Or just for it to show up on the home page and not on everything
 
 <h1>Completed</h1>
 - Fix trigger icon jumpiness when repositioning  
