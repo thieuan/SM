@@ -23,6 +23,6 @@ once an item is clicked, or if action was cancelled by user. This is because som
 <h2>Release note</h2>
 <h3>2.3.5</h3>
 - Option for background opacity level
-- Option for animation smoothness level, or to set it to none 
+<br>- Option for animation smoothness level, or to set it to none 
 <h3>2.3.7</h3>
 - Shortcut: RuntimeException, SecurityException
