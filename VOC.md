@@ -26,3 +26,5 @@ once an item is clicked, or if action was cancelled by user. This is because som
 <br>- Option for animation smoothness level, or to set it to none 
 <h3>2.3.7</h3>
 - Shortcut: RuntimeException, SecurityException
+<h3>3.0.0</h3>
+- Increase the maximum number of apps, action from 10 to 15 (Recommend to use 10 for better user experience)
