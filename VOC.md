@@ -21,6 +21,9 @@ once an item is clicked, or if action was cancelled by user. This is because som
 <br>17. I would like them to add gestures when you move the floating icon
 <br>18. Support devices without camera flash
 <br>19. Backup and restore
+<br>20. The quality of the screen recorders improvement
+<br>21. You could apply an icon pack to the displayed favorites. You had some options for the "touch spot" shape: Half circle, square, line, bar
+<br>22.Please add application notification on /off setting option . Please add USB teething shortcut and alarm clock in the base action .
 
 <h2>Completed</h2>
 - Fix trigger icon jumpiness when repositioning  
