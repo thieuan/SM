@@ -38,5 +38,5 @@ once an item is clicked, or if action was cancelled by user. This is because som
 - Increase the maximum number of apps, action from 10 to 15 (Recommend to use 10 for better user experience)
 <h3>3.0.1</h3>
 - Fix FCs related to Adaptive Icon 
-- Fix FCs related to marshall network image
-- Support devices without gl 2.0
+<br>- Fix FCs related to marshall network image
+<br>- Support devices without gl 2.0
