@@ -19,7 +19,7 @@ once an item is clicked, or if action was cancelled by user. This is because som
 
 <h2> New comming </h2>
 <br>17. I would like them to add gestures when you move the floating icon
-<br><strike>18. Support devices without camera flash
+<br><strike>18. Support devices without camera flash </strike>
 <br>19. Backup and restore
 <br>20. The quality of the screen recorders improvement
 <br>21. You could apply an icon pack to the displayed favorites. You had some options for the "touch spot" shape: Half circle, square, line, bar
