@@ -40,3 +40,6 @@ once an item is clicked, or if action was cancelled by user. This is because som
 - Fix FCs related to Adaptive Icon 
 <br>- Fix FCs related to marshall network image
 <br>- Support devices without gl 2.0
+<h3>3.0.2</h3>
+- Remove notification (android below 7.1) 
+<br>- Fix recent panel in android O
